@@ -24,8 +24,9 @@ I am a Systems & AI Infrastructure Engineer specializing in low-latency backend 
 
 ### Tech Stack & Primitives
 
-* **Languages:** C++17, Java, Python, TypeScript, C, SQL
-* **Cloud & Infrastructure:** AWS (DynamoDB, SQS FIFO, Lambda, S3), Docker, Redis, RESTful APIs
+* **Languages:** C++17, Java, Python, JavaScript, TypeScript, React, NextJs, C
+* **Databases:** SQL, NoSQL, MongoDB, DynamoDB (AWS)
+* **Cloud & Infrastructure:** AWS (SQS FIFO, Lambda, S3, EC2), Docker, Redis, RESTful APIs
 * **Systems & Internals:** Linux Kernel Tools (`strace`, `perf`), System Calls, Lock-Free Concurrency, Memory Management
 * **Tooling & Validation:** Git, Zod Schema Validation, HMAC-SHA256, Linux Shell
 
